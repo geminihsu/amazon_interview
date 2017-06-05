@@ -1,4 +1,4 @@
-package tw.gemini.interview.amazon_2;
+package tw.gemini.interview.oa_amazon_2;
 
 public class Guest {
 

@@ -1,4 +1,4 @@
-package tw.gemini.interview.amazon_1;
+package tw.gemini.interview.oa_amazon_1;
 //This class create the tree class used to display my activities ,past experience and my future goal     
 public class LingRonySyuDemo
 {

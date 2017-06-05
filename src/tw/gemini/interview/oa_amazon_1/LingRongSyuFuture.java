@@ -1,4 +1,4 @@
-package tw.gemini.interview.amazon_1;
+package tw.gemini.interview.oa_amazon_1;
 //This class extends my derived class in order to describe my future goal
 public class LingRongSyuFuture extends LingRongSyu
 {

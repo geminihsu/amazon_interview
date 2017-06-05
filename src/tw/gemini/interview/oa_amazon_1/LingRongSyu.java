@@ -1,4 +1,4 @@
-package tw.gemini.interview.amazon_1;
+package tw.gemini.interview.oa_amazon_1;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;

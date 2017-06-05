@@ -1,4 +1,4 @@
-package tw.gemini.interview.amazon_2;
+package tw.gemini.interview.oa_amazon_2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -146,7 +146,12 @@ public class Invitation {
 				"Mark,Ivan,1,6"};
 		
 		Invitation invitation = new Invitation(data);
+		//Time complexity for insert data to hashmap is O(n). Because we check leftover value before it has been 
+		//insert to hashmap. Space complexity for insert data to hashmap O(logn).
 		invitation.processData();
+		//If the hashmap size is n,
+		//time complexity for iterative the all data is O(n). 
+		//space complexity for iterative the all data is O(n).
 		invitation.printResult();
 	}
 }
